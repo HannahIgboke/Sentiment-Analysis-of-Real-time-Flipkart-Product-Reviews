@@ -48,7 +48,7 @@ The end product of this project is an interactive web application that takes in 
 </p>
 
 
-When the user clicks submit, they web application having been connected to the model built classifies their review and outputs the results of the sentiment analysis such as below:
+When the user clicks predict, the web application having been connected to the model built, classifies their review and outputs the results of the sentiment analysis such as below:
 
 <p align="center">
     <img width="800" src="https://github.com/HannahIgboke/Sentiment-Analysis-of-Real-time-Flipkart-Product-Reviews/blob/main/Files/sentiment%20page.JPG" alt="Sentiment analysis">
