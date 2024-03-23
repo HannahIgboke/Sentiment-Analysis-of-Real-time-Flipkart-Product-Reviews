@@ -11,7 +11,7 @@ A team of Data Engineers has scraped real-time data from the Flipkart website. T
 
 
 # Objectives
-The objective of this project is to classify customer reviews as positive or negative and and identify the best model fit for this sentiment analysis and further understand the pain points of customers who write negative reviews. In view of this, the specific objectives and workflow for this project is as follows:
+The objective of this project is to classify customer reviews as either positive or negative and and identify the best model fit for this sentiment analysis and further understand the pain points of customers who write negative reviews. In view of this, the specific objectives and workflow for this project is as follows:
 
 
 1. Data Loading and Exploratory Data Analysis
@@ -24,7 +24,7 @@ The objective of this project is to classify customer reviews as positive or neg
 
 5. Develop a Flask web application for sentiment analysis of user-provided reviews.
 
-6. Model Deployment: Deploy the trained sentiment classification model along with the Flask or Streamlit app on an AWS EC2 instance.
+6. Model Deployment: Deploy the trained sentiment classification model along with the Flask app on an AWS EC2 instance.
 
 7. Testing and Monitoring: Test the deployed application and monitor its performance for any issues or errors.
 
