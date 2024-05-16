@@ -31,7 +31,7 @@ The objective of this project is to classify customer reviews as either positive
 
 A detailed view of the exploratory data analysis, data preprocessing, model training and evaluation are contained in my notebook [here](https://github.com/HannahIgboke/Sentiment-Analysis-of-Real-time-Flipkart-Product-Reviews/blob/main/Files/Product%20review%20classifier.ipynb).
 
-The files for the web application developmentg can be found [here](https://github.com/HannahIgboke/Sentiment-Analysis-of-Real-time-Flipkart-Product-Reviews/tree/main/Files).
+The files for the web application development can be found [here](https://github.com/HannahIgboke/Sentiment-Analysis-of-Real-time-Flipkart-Product-Reviews/tree/main/Files).
 
 
 # Tech Stack used🛠
